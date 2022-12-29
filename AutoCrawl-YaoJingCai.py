@@ -118,8 +118,8 @@ if __name__ == "__main__":
 
         k = YaoJingCai()
         k._login_url = "https://yao.jd.com/loginPage/detail?channel=yao&ReturnUrl=https%3A%2F%2Fyao.jd.com%2Forder%2Flist"
-        k._account = '6YOR5bee56aP6'
-        k._password = 'YOO5LitenpmbHo2NjYKZHT'
+        k._account = '郑州福郎中'
+        k._password = '-enpmbHo2NjYK-ZHT'
         k._ObjName = v
 
         p = Process(target=k.Start_Crawl())
