@@ -143,7 +143,7 @@ if __name__ == "__main__":
     k = YaoJingCai()
     k._login_url = "https://yao.jd.com/loginPage/detail?channel=yao&ReturnUrl=https%3A%2F%2Fyao.jd.com%2Forder%2Flist"
     k._account = '郑州福郎中'
-    k._password = 'zzflz666'
+    k._password = '-enpmbHo2NjYK-ZHT'
     k._ObjName = '10277792'
     k.GongSiId = 4
     k.Start_Crawl()
